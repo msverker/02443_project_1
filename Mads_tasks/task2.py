@@ -1,5 +1,5 @@
 import numpy as np 
-from task1 import plot_hist
+from Mads_tasks.task1 import plot_hist
 from scipy.stats import chi2
 import matplotlib.pyplot as plt
 
